@@ -20,7 +20,7 @@ double pythagoras(double a,double b){
      }
 void showResult(double length, double angle){
         cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n";    
-        cout << "Length of the resultant vector = " length << endl;
+        cout << "Length of the resultant vector = " << length << endl;
         cout << "Direction of the resultant vector (deg) = "<< angle << endl;   
         cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%";
         }
