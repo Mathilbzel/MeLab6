@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    while(x!=0){
     int x,y,z;
+    while(x!=0){
     cout << "Enter an integer: ";
     cin >> x;
         if(x%2==0){
